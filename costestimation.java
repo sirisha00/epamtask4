@@ -5,8 +5,8 @@ import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.Scanner;
 
-public class ConstructionCostEstimation {
-	public static void costEvaluator() {
+public class costestimation {
+	public static void costevaluation() {
 		Scanner sc2= new Scanner(System.in);
 		PrintStream pts=new PrintStream(new FileOutputStream(FileDescriptor.out));
 		pts.println();
